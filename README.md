@@ -5,5 +5,5 @@
 * width (int) - max width
 * height (int) - max height
 
-return type: a string of @s and ANSI codes
+return type: a string of @s and ANSI codes <br>
 optional: creates txt file (default path to output/output.txt)
