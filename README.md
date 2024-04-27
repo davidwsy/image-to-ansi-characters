@@ -6,3 +6,4 @@
 * height (int) - max height
 
 return type: a string of @s and ANSI codes
+optional: creates txt file (default path to output/output.txt)
